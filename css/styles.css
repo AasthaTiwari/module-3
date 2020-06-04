@@ -13,7 +13,7 @@ ul{
 .nav-link{
   font-size: 30px;
 }
-@media (min-width: 576px){
+@media (min-width:576px){
 .navbar-expand-sm .navbar-nav .nav-link {
   visibility:hidden;
 }
